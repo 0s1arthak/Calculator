@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calcultor/static/css/main.ad32b0aa.css",
+    "main.js": "/Calcultor/static/js/main.1fe74512.js",
+    "static/js/453.83bdee10.chunk.js": "/Calcultor/static/js/453.83bdee10.chunk.js",
+    "index.html": "/Calcultor/index.html",
+    "main.ad32b0aa.css.map": "/Calcultor/static/css/main.ad32b0aa.css.map",
+    "main.1fe74512.js.map": "/Calcultor/static/js/main.1fe74512.js.map",
+    "453.83bdee10.chunk.js.map": "/Calcultor/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad32b0aa.css",
+    "static/js/main.1fe74512.js"
+  ]
+}
